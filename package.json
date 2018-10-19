@@ -1,0 +1,14 @@
+{
+  "name": "letscode",
+  "version": "1.0.0",
+  "description": "EXPORTER UN XML DE CATEGORY ASSIGNMENTS",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "aduponchel @ Altima",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.8"
+  }
+}
